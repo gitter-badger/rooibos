@@ -1,5 +1,7 @@
 # Madison Digial Image Database (MDID)
 
+[![Join the chat at https://gitter.im/hanleybrand/rooibos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hanleybrand/rooibos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The [Madison Digital Image Database](http://mdid.org/) is a free, open source media repo aimed at education spaces.
 It was created at [James Madison University](http://www.jmu.edu).
 
